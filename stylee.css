@@ -1,0 +1,53 @@
+body{
+    background-image: url('photo.jpeg');  /*hadi dyal khalfia*/
+}
+h1 {
+    text-align: center;         /* kat eml ktaba fel west*/
+    text-transform: uppercase;  /*majuscule*/
+    color: #265fa0;
+  }
+h1 {
+    color: #02b5e2
+    }
+h1 {
+    font-size: 500%;
+}    
+h2{
+    color: #64b8fd;
+    font-size: 200%;    /*dyal tekbir o tesghir*/ 
+}
+#kamal{
+    width: 400px;     /*l3ard*/
+    height:400px;   /*tol*/
+    border-radius: 50%;   /*katml*/ 
+}
+
+#picture {
+    margin-left: 900px;
+    width: 300px;     /*l3ard*/
+    height:200px;   /*tol*/
+}
+p{
+    color: #6d6565;
+}
+li{
+    color: #7c7777
+}
+li{
+    font-size: 150%;
+}
+ul{
+    list-style: ;
+}
+p{
+    width: 500px;
+    height: 250px;
+    padding: 18px;  /* espace li kayn ndakhel*/
+    border: 1px;    /* howa l cadre*/
+    margin-right: 200px; /*espace li kayn ela bara ms hi hwaxi hit zidt dek left ida emlna margin bohda hay kon espace min jami3 jihat*/
+    background: rgba(27, 27, 75, 0.212); /* khalfia d ktaba*/
+    font-size: 150%; /* taya d ktaba*/
+}
+a {
+    font-size:small;
+}
