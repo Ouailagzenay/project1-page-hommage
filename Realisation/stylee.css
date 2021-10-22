@@ -20,6 +20,7 @@ h2{
     width: 400px;     /*l3ard*/
     height:400px;   /*tol*/
     border-radius: 50%;   /*katml*/ 
+    margin-top: 100PX;
 }
 
 #picture {
@@ -50,4 +51,13 @@ p{
 }
 a {
     font-size:small;
+
 }
+
+CENTER {
+    float:right;
+
+  margin-right: 250PX;
+  margin-top: 150px;
+  }
+  
